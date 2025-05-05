@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>Debian安装MySQL</title>
+      <link href="/posts/39e6a8b7.html"/>
+      <url>/posts/39e6a8b7.html</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>✨使用MySQL APT 仓库安装</p><p>这里默认你有linux系统使用经验！</p></blockquote><h2 id="swQXm">下载APT 仓库</h2><p><a href="https://dev.mysql.com/downloads/repo/apt/.">APT 仓库下载地址</a></p><p><img src="https://cdn.nlark.com/yuque/0/2025/png/42357036/1746451137127-06509abf-fb08-464d-ac76-253e81701d55.png" alt=""></p><p><img src="https://cdn.nlark.com/yuque/0/2025/png/42357036/1746452088123-5e3cb087-cc92-4bec-b740-69a0e47da364.png" alt=""></p><p>右键红框链接并复制链接地址</p><p><img src="https://cdn.nlark.com/yuque/0/2025/png/42357036/1746452181610-fabc9b24-8450-4b42-9e85-8b38a9dc48b8.png" alt=""></p><p>使用命令：</p><p><code>wget [https://dev.mysql.com/get/mysql-apt-config_0.8.34-1_all.deb](https://dev.mysql.com/get/mysql-apt-config_0.8.34-1_all.deb)</code></p><p>进行下载！</p><h2 id="lHYjz">安装1.中下载的发布包</h2><p><code>sudo dpkg -i mysql-apt-config_w.x.y-z_all.deb</code></p><h2 id="Hz6wk">更新apt</h2><p><code>sudo apt-get update</code></p><h2 id="hukjy">安装</h2><p><code>sudo apt-get install mysql-server</code></p><p>安装过程中会让你<strong>设置密码</strong></p><hr><p>👍<strong>验证安装：</strong></p><p><img src="https://cdn.nlark.com/yuque/0/2025/png/42357036/1746451338989-47491b38-2a93-4efc-9dbd-a79598ec1e35.png" alt=""></p><p>出现<code>mysql&gt;</code>表示成功安装！</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> MySQL </tag>
+            
+            <tag> Linux </tag>
+            
+            <tag> Debian </tag>
+            
+            <tag> 数据库 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Spring5入门-从IoC到AOP</title>
       <link href="/posts/e3ee252f.html"/>
       <url>/posts/e3ee252f.html</url>
@@ -69,9 +94,9 @@
     
     
     <entry>
-      <title>分类</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
+      <title>标签</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -80,9 +105,9 @@
     
     
     <entry>
-      <title>标签</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
+      <title>分类</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
