@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://oops-shaun.github.io/link/index.html</loc>
+    <loc>https://oops-shaun.github.io/tags/index.html</loc>
     
     <lastmod>2025-08-26</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://oops-shaun.github.io/tags/index.html</loc>
+    <loc>https://oops-shaun.github.io/link/index.html</loc>
     
     <lastmod>2025-08-26</lastmod>
     
@@ -129,27 +129,6 @@
   </url>
   
   <url>
-    <loc>https://oops-shaun.github.io/tags/SpringBoot/</loc>
-    <lastmod>2025-08-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://oops-shaun.github.io/tags/Spring/</loc>
-    <lastmod>2025-08-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://oops-shaun.github.io/tags/JavaWeb%E6%A1%86%E6%9E%B6/</loc>
-    <lastmod>2025-08-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://oops-shaun.github.io/tags/%E4%BA%91%E6%9C%8D%E5%8A%A1%E5%99%A8/</loc>
     <lastmod>2025-08-26</lastmod>
     <changefreq>weekly</changefreq>
@@ -186,6 +165,27 @@
   
   <url>
     <loc>https://oops-shaun.github.io/tags/Java/</loc>
+    <lastmod>2025-08-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://oops-shaun.github.io/tags/SpringBoot/</loc>
+    <lastmod>2025-08-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://oops-shaun.github.io/tags/Spring/</loc>
+    <lastmod>2025-08-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://oops-shaun.github.io/tags/JavaWeb%E6%A1%86%E6%9E%B6/</loc>
     <lastmod>2025-08-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
