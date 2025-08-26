@@ -101,6 +101,27 @@
 
   
   <url>
+    <loc>https://oops-shaun.github.io/tags/SpringBoot/</loc>
+    <lastmod>2025-08-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://oops-shaun.github.io/tags/Spring/</loc>
+    <lastmod>2025-08-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://oops-shaun.github.io/tags/JavaWeb%E6%A1%86%E6%9E%B6/</loc>
+    <lastmod>2025-08-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://oops-shaun.github.io/tags/MySQL/</loc>
     <lastmod>2025-08-26</lastmod>
     <changefreq>weekly</changefreq>
@@ -165,27 +186,6 @@
   
   <url>
     <loc>https://oops-shaun.github.io/tags/Java/</loc>
-    <lastmod>2025-08-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://oops-shaun.github.io/tags/SpringBoot/</loc>
-    <lastmod>2025-08-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://oops-shaun.github.io/tags/Spring/</loc>
-    <lastmod>2025-08-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://oops-shaun.github.io/tags/JavaWeb%E6%A1%86%E6%9E%B6/</loc>
     <lastmod>2025-08-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
